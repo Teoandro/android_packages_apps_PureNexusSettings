@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 The Pure Nexus Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <!-- App Name -->
+    <string name="app_name">PureNexus</string>
+
+  <!-- About Frag strings -->
+    <string name="about_frag_title">À propos</string>
+    <string name="pushbullet_data">https://www.pushbullet.com/channel?tag=purenexus</string>
+    <string name="gplus_data">https://plus.google.com/communities/103055954354785266764</string>
+    <string name="twit_data">https://twitter.com/BeansTown106</string>
+    <string name="payp_data">http://forum.xda-developers.com/donatetome.php?u=4395895</string>
+    <string name="miscinfo_title">Info de l\'app</string>
+    <string name="miscinfo_summary">Cliquez ici pour le changelog et les crédits spécifiques à l\'applications</string>
+    <string name="nexus_about">Info PureNexus</string>
+    <string name="nexus_about_summary">Divers infos sur la rom, les développeurs et les contributeurs</string>
+    <string name="nexus_useful">Liens utiles</string>
+    <string name="nexus_updates">Notifications de mise à jour sur Pushbullet</string>
+    <string name="lead_dev"></string>
+    <string name="beans">BeansTown106</string>
+    <string name="beans_sum">Principal mainteneur</string>
+    <string name="beans_twit">BeansTown\'s Twitter</string>
+    <string name="nexus_gplus">Communauté Google+</string>
+    <string name="donate">Faire un don pour soutenir le développement</string>
+    <string name="contribute">Contributeurs</string>
+    <string name="devonte">Dwitherell</string>
+    <string name="devonte_sum">Coder/tweaker</string>
+    <string name="dhack">Dhacker29</string>
+    <string name="dhack_sum">Gapps Base</string>
+    <string name="daveya">DaveyAnnihilation</string>
+    <string name="wally">Wally3614</string>
+    <string name="gfx_sum">Graphics/icônes</string>
+    <string name="surge">Surge1223</string>
+    <string name="bajasur">Bajasur</string>
+    <string name="tweak_sum">Divers tweaks</string>
+    <string name="click1">Ne serait-il pas agréable si cela ferait quelque chose&#8230;</string>
+    <string name="click3">&#8230; %1$d times now?! Ok, just quit. I\'m going to act like nothing happened, so stop</string>
